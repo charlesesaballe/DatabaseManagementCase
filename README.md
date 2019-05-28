@@ -1,26 +1,27 @@
 # DatabaseManagementCase
 Case project for the Data Management and Databases course
 
-##THE CASE: Kuru Culture Club
+## THE CASE: Kuru Culture Club
 The Kuru Culture Club is an association organizing concerts, dance and theatre performances and other cultural events. So far, tickets have been sold in person at Kuru Library. Now the Kuru Culture Club is keen on offering Internet pages, where clients could see upcoming events and book tickets. When a client makes a booking he/she should get a unique booking number. The booked tickets should still be purchased at Kuru Library within three days from booking.
 
-###Further details
-*The Kuru Culture Club has two venues to hold its events. The smaller room accommodates 80 people, the larger one – up to 400 people. It is possible that other venues may become available in the future.
-*The seats are not numbered, but the fire safety regulations do not allow any overbooking.
-*All tickets to a certain event are sold at the same price.
-*Different events may be priced differently.
-*An event can include performances from various artists.
-*Popular performers visit Kuru often. The Kuru Culture Club has an extensive registry of artists – Finnish and foreign – with their contact information and special requests for catering and refreshments.
-*The booked tickets are identified and purchased by booking number.
-*A booking can only contain tickets to one event.
-*A booking can be cancelled, unless it has already been already purchased (payed for).
-*The number of tickets in a booking can be changed, unless the tickets are already purchased.
-*Once the tickets are purchased, they can neither be changed nor refunded (except for event cancellation).
-*If the event is cancelled, the client can receive a refund of the amount paid for the ticket. The refund is given in person at Kuru Library.
-*All the tickets included in the same booking must be purchased at the same time.
-*Client information is not stored in the database. Client can add telephone number to the booking memo field to help find the booked tickets in case of a loss of the booking number.
+### Further details
+* The Kuru Culture Club has two venues to hold its events. The smaller room accommodates 80 people, the larger one – up to 400 people. 
+* It is possible that other venues may become available in the future.
+* The seats are not numbered, but the fire safety regulations do not allow any overbooking.
+* All tickets to a certain event are sold at the same price.
+* Different events may be priced differently.
+* An event can include performances from various artists.
+* Popular performers visit Kuru often. The Kuru Culture Club has an extensive registry of artists – Finnish and foreign – with their contact information and special requests for catering and refreshments.
+* The booked tickets are identified and purchased by booking number.
+* A booking can only contain tickets to one event.
+* A booking can be cancelled, unless it has already been already purchased (payed for).
+* The number of tickets in a booking can be changed, unless the tickets are already purchased.
+* Once the tickets are purchased, they can neither be changed nor refunded (except for event cancellation).
+* If the event is cancelled, the client can receive a refund of the amount paid for the ticket. The refund is given in person at Kuru Library.
+* All the tickets included in the same booking must be purchased at the same time.
+* Client information is not stored in the database. Client can add telephone number to the booking memo field to help find the booked tickets in case of a loss of the booking number.
 
-###Requirements
+### Requirements
 The new application should help to complete the tasks (user transactions) listed below:
 1. Booking a ticket
 2. Cancelling a ticket booking
